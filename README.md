@@ -51,7 +51,7 @@ This project aims to design and develop an E-commerce website that lets people s
 ## How to run the program
 •	clone project
 
-  o	clone git : git clone  https://github.com/KUSALA-sura/Kitchen-Story-Phase4-project
+  o	clone git : git clone  https://github.com/Svsai97/Kitchen-Story-Project4.git
   
 •	Import the “database\kitchen-story.sql” file to your database administration tool.
 
